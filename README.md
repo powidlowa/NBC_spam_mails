@@ -1,2 +1,3 @@
 # naive-bayes-classifier-for-spam-mails
-Lab: Naive Bayes Classifier for spam.non-spam mails classification. 
+Naive Bayes Classifier for spam/non-spam mails classification.
+Written in Python from scratch.
